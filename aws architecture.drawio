@@ -94,7 +94,7 @@
         <mxCell id="SnV6tF5XEiIuM05r24jZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SnV6tF5XEiIuM05r24jZ-7" target="hwHYz0z9tD9XKouha8d3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SnV6tF5XEiIuM05r24jZ-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png" vertex="1" parent="1">
+        <mxCell id="SnV6tF5XEiIuM05r24jZ-7" value="GITHUB ACTIONS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png" vertex="1" parent="1">
           <mxGeometry x="180" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SnV6tF5XEiIuM05r24jZ-10" value="PIPELINE CI CD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SnV6tF5XEiIuM05r24jZ-7" target="S2NnFLnJoWz1vfSgh-SL-38">
