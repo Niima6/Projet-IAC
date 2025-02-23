@@ -6,6 +6,12 @@ Ce projet est réalisé dans le cadre du cours d'infrastructure as code (IaC) et
 
 ![AWS Architecture](aws%20architecture.png)
 
+## Descriptif AWS
+
+- **Auto Scaling Group EC2**
+- **RDS Aurora**
+- **Lambda**
+
 ### Base de données
 - **RDS** : Aurora (US)
 
@@ -17,11 +23,6 @@ Ce projet est réalisé dans le cadre du cours d'infrastructure as code (IaC) et
 - **Container Docker** : Wordpress
 - **Lambda** : Fonction pour l'envoi d'email
 
-## Descriptif AWS
-
-- **Auto Scaling Group EC2**
-- **RDS Aurora**
-- **Lambda**
 
 ### Réseau (network.tf)
 - VPC
